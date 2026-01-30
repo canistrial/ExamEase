@@ -1,0 +1,73 @@
+/* Reset default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Page background */
+body {
+  background: linear-gradient(to right, #667eea, #764ba2);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Main container */
+.container {
+  background-color: #ffffff;
+  padding: 40px;
+  width: 90%;
+  max-width: 400px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Main heading */
+h1 {
+  color: #333333;
+  margin-bottom: 10px;
+}
+
+/* Sub text */
+p {
+  color: #666666;
+  margin-bottom: 25px;
+  font-size: 14px;
+}
+
+/* Input fields */
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #cccccc;
+  font-size: 14px;
+}
+
+/* Buttons */
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #667eea;
+  border: none;
+  color: white;
+  font-size: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #5a67d8;
+}
+
+/* Footer text */
+.footer {
+  margin-top: 15px;
+  font-size: 12px;
+  color: #999999;
+}
